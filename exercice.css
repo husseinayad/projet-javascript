@@ -1,0 +1,12 @@
+#myImg{
+    
+   margin: auto;
+    background: crimson;
+    height: 100px;
+    width: 100px;
+}
+.btn{
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+}
